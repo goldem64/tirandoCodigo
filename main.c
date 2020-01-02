@@ -57,7 +57,7 @@ int main(){
 		
 		
 	}else if(clase == 'B'){
-		i = 17;
+		i = 18;
 		strcpy(mascaraAdaptada,"11111111.11111111.00000000.00000000");
 	}else{
 		i = 26;
